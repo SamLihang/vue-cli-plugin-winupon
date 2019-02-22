@@ -1,0 +1,13 @@
+{
+  "name": "vue-cli-plugin-winupon",
+  "version": "1.0.15",
+  "description": "winpuon vue-cli3 plugin",
+  "main": "index.js",
+  "keywords": [
+    "vue-cli3",
+    "plugin",
+    "winupon"
+  ],
+  "author": "lihang",
+  "license": "ISC"
+}
