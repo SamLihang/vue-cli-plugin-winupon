@@ -1,5 +1,15 @@
 module.exports = [
   {
+    type: 'list',
+    name: 'frame',
+    message: '选择您使用的框架？',
+    choices: [
+      { name: 'winupon-front', value: 'WpFront' },
+      { name: 'vue-cli3', value: 'vueCli' },
+    ],
+    default: 'WpFront',
+  },
+  {
     type: 'input',
     name: 'name',
     message: '请输入您将生成的项目名？',
